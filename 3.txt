@@ -1,0 +1,1 @@
+O b invert é um artifício utilizado para alternar o circuito entre somador e subtrator.
